@@ -1,0 +1,14 @@
+{
+    "redirects": [
+          {
+                  "source": "/ourteam",
+                  "destination": "/",
+                  "permanent": true
+          },
+          {
+                  "source": "/home",
+                  "destination": "/",
+                  "permanent": true
+          }
+    ]
+}
